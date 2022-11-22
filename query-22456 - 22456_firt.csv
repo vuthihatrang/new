@@ -1,4 +1,4 @@
-__time,seller_id,client_id,device,sources,events,hour_key
+date,seller_id,client_id,device,sources,events,hour_key
 2022-11-02T00:00:00.000Z,22456,09de8c56-4b24-43ab-baed-2918fa21b801,mobile,pdp,6,2022-11-02 0:00:00
 2022-11-02T00:00:00.000Z,22456,73aaf6a1-7536-4999-8403-4268b956c0a3,mobile,pdp,1,2022-11-02 0:00:00
 2022-11-02T00:00:00.000Z,22456,a5fb4787-0ca4-43d4-9aae-0dc093294125,mobile,pdp,1,2022-11-02 0:00:00
